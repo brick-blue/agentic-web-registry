@@ -1,0 +1,10 @@
+The measurements in this repository (availability, uptime, latency, access class, counts and
+timestamps) are licensed under the Creative Commons Attribution 4.0 International licence:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution: «brick.blue registry», with a link to https://brick.blue
+
+Names, descriptions and tool texts included in the full records were written by the operators of
+the services they describe and remain theirs.
+
+snapshot.py is MIT-licensed.

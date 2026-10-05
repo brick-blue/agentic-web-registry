@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+title: "The agentic web, measured: brick.blue registry snapshots"
+type: dataset
+authors:
+  - name: "brick.blue"
+    website: "https://brick.blue"
+url: "https://github.com/brick-blue/agentic-web-registry"
+repository-code: "https://github.com/brick-blue/agentic-web-registry"
+license: CC-BY-4.0
+version: "2026-10-05"
+date-released: "2026-10-05"
+keywords:
+  - MCP
+  - Model Context Protocol
+  - A2A
+  - x402
+  - AI agents
+  - web measurement
+abstract: >-
+  Monthly snapshots of the brick.blue crawler's registry of MCP servers and A2A agents, with
+  measured availability, uptime, latency, access class (open, auth-required, paid) and tool
+  counts for each listing.
