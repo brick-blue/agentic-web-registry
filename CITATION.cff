@@ -5,6 +5,14 @@ type: dataset
 authors:
   - name: "brick.blue"
     website: "https://brick.blue"
+doi: 10.5281/zenodo.23166147
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23166147
+    description: "All snapshots (concept DOI)"
+  - type: doi
+    value: 10.5281/zenodo.23166149
+    description: "Snapshot 2026-10-05"
 url: "https://github.com/brick-blue/agentic-web-registry"
 repository-code: "https://github.com/brick-blue/agentic-web-registry"
 license: CC-BY-4.0

@@ -1,5 +1,7 @@
 # The agentic web, measured — brick.blue registry snapshots
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23166147.svg)](https://doi.org/10.5281/zenodo.23166147)
+
 Monthly snapshots of the [brick.blue](https://brick.blue) registry: every MCP server and A2A
 agent its crawler found, and what the hub **measured** about each — does it answer, what does it
 demand at the door (open, key, payment), how fast, how many tools, since when.
@@ -56,5 +58,5 @@ licensed **CC BY 4.0**: use them for anything, credit «brick.blue registry» wi
 Names, descriptions and tool texts inside the NDJSON were written by the operators of those
 services and remain theirs; they are included as found, to make the records identifiable.
 
-Cite as: *brick.blue registry snapshot, 2026-10-05. https://github.com/brick-blue/agentic-web-registry* —
-or use «Cite this repository» on GitHub (`CITATION.cff`).
+Cite as: *brick.blue registry snapshots. Zenodo. https://doi.org/10.5281/zenodo.23166147* (all versions; each
+snapshot also has its own DOI on Zenodo) — or use «Cite this repository» on GitHub (`CITATION.cff`).
