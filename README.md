@@ -48,6 +48,9 @@ x402-priced endpoints, settlements read from Base).
 | `verification` | whether the operator proved the domain |
 | `firstSeenAt`, `lastSeenAt`, `lastCheckedAt`, `contentChangedAt` | when the crawler found it, last saw it, last checked it, last saw it change |
 
+**Daily, checkable:** [registry-exports](https://github.com/brick-blue/registry-exports) — the registry and the
+x402 catalogue one file a day, hashed, stamped in the hub's signed minutes, signed, and checkable with `verify.py`.
+
 How the checks are made, what is never called, and how operators opt out:
 https://brick.blue/bot. Live data, any time: `GET https://brick.blue/api/v1/agents.ndjson`.
 
